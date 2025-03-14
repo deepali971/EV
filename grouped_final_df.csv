@@ -1,0 +1,1106 @@
+Year,State,Vehicle_Category,Vehicle_Class,EV_Sales_Quantity
+2014.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2014.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2014.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,0.0
+2014.0,Andhra Pradesh,2-Wheelers,SCOOTER,7.0
+2014.0,Andhra Pradesh,3-Wheelers,RICKSHAW,0.0
+2014.0,Andhra Pradesh,4-Wheelers,CAR/CAB,5.0
+2014.0,Arunachal Pradesh,2-Wheelers,SCOOTER,0.0
+2014.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2014.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2014.0,Assam,2-Wheelers,SCOOTER,0.0
+2014.0,Assam,3-Wheelers,RICKSHAW,0.0
+2014.0,Assam,4-Wheelers,CAR/CAB,0.0
+2014.0,Bihar,2-Wheelers,SCOOTER,6.0
+2014.0,Bihar,3-Wheelers,RICKSHAW,1.0
+2014.0,Bihar,4-Wheelers,CAR/CAB,2.0
+2014.0,Chandigarh,2-Wheelers,SCOOTER,0.0
+2014.0,Chandigarh,3-Wheelers,RICKSHAW,0.0
+2014.0,Chandigarh,4-Wheelers,CAR/CAB,0.0
+2014.0,Chhattisgarh,2-Wheelers,SCOOTER,118.0
+2014.0,Chhattisgarh,3-Wheelers,RICKSHAW,0.0
+2014.0,Chhattisgarh,4-Wheelers,CAR/CAB,2.0
+2014.0,DNH and DD,2-Wheelers,SCOOTER,0.0
+2014.0,DNH and DD,3-Wheelers,RICKSHAW,0.0
+2014.0,DNH and DD,4-Wheelers,CAR/CAB,0.0
+2014.0,Delhi,2-Wheelers,SCOOTER,23.0
+2014.0,Delhi,3-Wheelers,RICKSHAW,0.0
+2014.0,Delhi,4-Wheelers,CAR/CAB,24.0
+2014.0,Goa,2-Wheelers,SCOOTER,8.0
+2014.0,Goa,3-Wheelers,RICKSHAW,0.0
+2014.0,Goa,4-Wheelers,CAR/CAB,1.0
+2014.0,Gujarat,2-Wheelers,SCOOTER,33.0
+2014.0,Gujarat,3-Wheelers,RICKSHAW,1.0
+2014.0,Gujarat,4-Wheelers,CAR/CAB,2.0
+2014.0,Haryana,2-Wheelers,SCOOTER,2.0
+2014.0,Haryana,3-Wheelers,RICKSHAW,0.0
+2014.0,Haryana,4-Wheelers,CAR/CAB,3.0
+2014.0,Himachal Pradesh,2-Wheelers,SCOOTER,0.0
+2014.0,Himachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2014.0,Himachal Pradesh,4-Wheelers,CAR/CAB,1.0
+2014.0,Jammu and Kashmir,2-Wheelers,SCOOTER,0.0
+2014.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,0.0
+2014.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,3.0
+2014.0,Jharkhand,2-Wheelers,SCOOTER,2.0
+2014.0,Jharkhand,3-Wheelers,RICKSHAW,1.0
+2014.0,Jharkhand,4-Wheelers,CAR/CAB,1.0
+2014.0,Karnataka,2-Wheelers,SCOOTER,167.0
+2014.0,Karnataka,3-Wheelers,RICKSHAW,4.0
+2014.0,Karnataka,4-Wheelers,CAR/CAB,369.0
+2014.0,Kerala,2-Wheelers,SCOOTER,18.0
+2014.0,Kerala,3-Wheelers,RICKSHAW,1.0
+2014.0,Kerala,4-Wheelers,CAR/CAB,6.0
+2014.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2014.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2014.0,Madhya Pradesh,2-Wheelers,SCOOTER,38.0
+2014.0,Madhya Pradesh,3-Wheelers,RICKSHAW,0.0
+2014.0,Madhya Pradesh,4-Wheelers,CAR/CAB,1.0
+2014.0,Maharashtra,2-Wheelers,SCOOTER,830.0
+2014.0,Maharashtra,3-Wheelers,RICKSHAW,0.0
+2014.0,Maharashtra,4-Wheelers,CAR/CAB,48.0
+2014.0,Manipur,2-Wheelers,SCOOTER,0.0
+2014.0,Manipur,3-Wheelers,RICKSHAW,0.0
+2014.0,Manipur,4-Wheelers,CAR/CAB,0.0
+2014.0,Meghalaya,2-Wheelers,SCOOTER,0.0
+2014.0,Meghalaya,3-Wheelers,RICKSHAW,0.0
+2014.0,Meghalaya,4-Wheelers,CAR/CAB,1.0
+2014.0,Mizoram,2-Wheelers,SCOOTER,0.0
+2014.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2014.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2014.0,Nagaland,2-Wheelers,SCOOTER,0.0
+2014.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2014.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2014.0,Odisha,2-Wheelers,SCOOTER,10.0
+2014.0,Odisha,3-Wheelers,RICKSHAW,2.0
+2014.0,Odisha,4-Wheelers,CAR/CAB,2.0
+2014.0,Puducherry,2-Wheelers,SCOOTER,3.0
+2014.0,Puducherry,3-Wheelers,RICKSHAW,0.0
+2014.0,Puducherry,4-Wheelers,CAR/CAB,0.0
+2014.0,Punjab,2-Wheelers,SCOOTER,7.0
+2014.0,Punjab,3-Wheelers,RICKSHAW,0.0
+2014.0,Punjab,4-Wheelers,CAR/CAB,2.0
+2014.0,Rajasthan,2-Wheelers,SCOOTER,80.0
+2014.0,Rajasthan,3-Wheelers,RICKSHAW,1.0
+2014.0,Rajasthan,4-Wheelers,CAR/CAB,3.0
+2014.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2014.0,Sikkim,4-Wheelers,CAR/CAB,1.0
+2014.0,Tamil Nadu,2-Wheelers,SCOOTER,44.0
+2014.0,Tamil Nadu,3-Wheelers,RICKSHAW,1.0
+2014.0,Tamil Nadu,4-Wheelers,CAR/CAB,19.0
+2014.0,Tripura,2-Wheelers,SCOOTER,0.0
+2014.0,Tripura,3-Wheelers,RICKSHAW,0.0
+2014.0,Tripura,4-Wheelers,CAR/CAB,0.0
+2014.0,Uttar Pradesh,2-Wheelers,SCOOTER,125.0
+2014.0,Uttar Pradesh,3-Wheelers,RICKSHAW,0.0
+2014.0,Uttar Pradesh,4-Wheelers,CAR/CAB,0.0
+2014.0,Uttarakhand,2-Wheelers,SCOOTER,9.0
+2014.0,Uttarakhand,3-Wheelers,RICKSHAW,0.0
+2014.0,Uttarakhand,4-Wheelers,CAR/CAB,0.0
+2014.0,West Bengal,2-Wheelers,SCOOTER,0.0
+2014.0,West Bengal,3-Wheelers,RICKSHAW,0.0
+2014.0,West Bengal,4-Wheelers,CAR/CAB,2.0
+2015.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2015.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2015.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,0.0
+2015.0,Andhra Pradesh,2-Wheelers,SCOOTER,8.0
+2015.0,Andhra Pradesh,3-Wheelers,RICKSHAW,0.0
+2015.0,Andhra Pradesh,4-Wheelers,CAR/CAB,0.0
+2015.0,Arunachal Pradesh,2-Wheelers,SCOOTER,0.0
+2015.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2015.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2015.0,Assam,2-Wheelers,SCOOTER,3.0
+2015.0,Assam,3-Wheelers,RICKSHAW,0.0
+2015.0,Assam,4-Wheelers,CAR/CAB,1.0
+2015.0,Bihar,2-Wheelers,SCOOTER,1.0
+2015.0,Bihar,3-Wheelers,RICKSHAW,64.0
+2015.0,Bihar,4-Wheelers,CAR/CAB,3.0
+2015.0,Chandigarh,2-Wheelers,SCOOTER,0.0
+2015.0,Chandigarh,3-Wheelers,RICKSHAW,0.0
+2015.0,Chandigarh,4-Wheelers,CAR/CAB,2.0
+2015.0,Chhattisgarh,2-Wheelers,SCOOTER,80.0
+2015.0,Chhattisgarh,3-Wheelers,RICKSHAW,0.0
+2015.0,Chhattisgarh,4-Wheelers,CAR/CAB,2.0
+2015.0,DNH and DD,2-Wheelers,SCOOTER,0.0
+2015.0,DNH and DD,3-Wheelers,RICKSHAW,0.0
+2015.0,DNH and DD,4-Wheelers,CAR/CAB,1.0
+2015.0,Delhi,2-Wheelers,SCOOTER,20.0
+2015.0,Delhi,3-Wheelers,RICKSHAW,3488.0
+2015.0,Delhi,4-Wheelers,CAR/CAB,53.0
+2015.0,Goa,2-Wheelers,SCOOTER,4.0
+2015.0,Goa,3-Wheelers,RICKSHAW,0.0
+2015.0,Goa,4-Wheelers,CAR/CAB,0.0
+2015.0,Gujarat,2-Wheelers,SCOOTER,31.0
+2015.0,Gujarat,3-Wheelers,RICKSHAW,5.0
+2015.0,Gujarat,4-Wheelers,CAR/CAB,2.0
+2015.0,Haryana,2-Wheelers,SCOOTER,8.0
+2015.0,Haryana,3-Wheelers,RICKSHAW,38.0
+2015.0,Haryana,4-Wheelers,CAR/CAB,2.0
+2015.0,Himachal Pradesh,2-Wheelers,SCOOTER,3.0
+2015.0,Himachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2015.0,Himachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2015.0,Jammu and Kashmir,2-Wheelers,SCOOTER,3.0
+2015.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,0.0
+2015.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,1.0
+2015.0,Jharkhand,2-Wheelers,SCOOTER,3.0
+2015.0,Jharkhand,3-Wheelers,RICKSHAW,191.0
+2015.0,Jharkhand,4-Wheelers,CAR/CAB,0.0
+2015.0,Karnataka,2-Wheelers,SCOOTER,97.0
+2015.0,Karnataka,3-Wheelers,RICKSHAW,40.0
+2015.0,Karnataka,4-Wheelers,CAR/CAB,515.0
+2015.0,Kerala,2-Wheelers,SCOOTER,13.0
+2015.0,Kerala,3-Wheelers,RICKSHAW,1.0
+2015.0,Kerala,4-Wheelers,CAR/CAB,12.0
+2015.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2015.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2015.0,Madhya Pradesh,2-Wheelers,SCOOTER,39.0
+2015.0,Madhya Pradesh,3-Wheelers,RICKSHAW,43.0
+2015.0,Madhya Pradesh,4-Wheelers,CAR/CAB,1.0
+2015.0,Maharashtra,2-Wheelers,SCOOTER,866.0
+2015.0,Maharashtra,3-Wheelers,RICKSHAW,1.0
+2015.0,Maharashtra,4-Wheelers,CAR/CAB,108.0
+2015.0,Manipur,2-Wheelers,SCOOTER,0.0
+2015.0,Manipur,3-Wheelers,RICKSHAW,0.0
+2015.0,Manipur,4-Wheelers,CAR/CAB,0.0
+2015.0,Meghalaya,2-Wheelers,SCOOTER,0.0
+2015.0,Meghalaya,3-Wheelers,RICKSHAW,0.0
+2015.0,Meghalaya,4-Wheelers,CAR/CAB,0.0
+2015.0,Mizoram,2-Wheelers,SCOOTER,0.0
+2015.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2015.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2015.0,Nagaland,2-Wheelers,SCOOTER,0.0
+2015.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2015.0,Nagaland,4-Wheelers,CAR/CAB,1.0
+2015.0,Odisha,2-Wheelers,SCOOTER,5.0
+2015.0,Odisha,3-Wheelers,RICKSHAW,7.0
+2015.0,Odisha,4-Wheelers,CAR/CAB,4.0
+2015.0,Puducherry,2-Wheelers,SCOOTER,9.0
+2015.0,Puducherry,3-Wheelers,RICKSHAW,0.0
+2015.0,Puducherry,4-Wheelers,CAR/CAB,1.0
+2015.0,Punjab,2-Wheelers,SCOOTER,7.0
+2015.0,Punjab,3-Wheelers,RICKSHAW,2.0
+2015.0,Punjab,4-Wheelers,CAR/CAB,4.0
+2015.0,Rajasthan,2-Wheelers,SCOOTER,46.0
+2015.0,Rajasthan,3-Wheelers,RICKSHAW,625.0
+2015.0,Rajasthan,4-Wheelers,CAR/CAB,3.0
+2015.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2015.0,Sikkim,4-Wheelers,CAR/CAB,2.0
+2015.0,Tamil Nadu,2-Wheelers,SCOOTER,12.0
+2015.0,Tamil Nadu,3-Wheelers,RICKSHAW,0.0
+2015.0,Tamil Nadu,4-Wheelers,CAR/CAB,25.0
+2015.0,Tripura,2-Wheelers,SCOOTER,0.0
+2015.0,Tripura,3-Wheelers,RICKSHAW,0.0
+2015.0,Tripura,4-Wheelers,CAR/CAB,0.0
+2015.0,Uttar Pradesh,2-Wheelers,SCOOTER,82.0
+2015.0,Uttar Pradesh,3-Wheelers,RICKSHAW,924.0
+2015.0,Uttar Pradesh,4-Wheelers,CAR/CAB,1.0
+2015.0,Uttarakhand,2-Wheelers,SCOOTER,13.0
+2015.0,Uttarakhand,3-Wheelers,RICKSHAW,1.0
+2015.0,Uttarakhand,4-Wheelers,CAR/CAB,0.0
+2015.0,West Bengal,2-Wheelers,SCOOTER,0.0
+2015.0,West Bengal,3-Wheelers,RICKSHAW,10.0
+2015.0,West Bengal,4-Wheelers,CAR/CAB,17.0
+2016.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2016.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2016.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,0.0
+2016.0,Andhra Pradesh,2-Wheelers,SCOOTER,13.0
+2016.0,Andhra Pradesh,3-Wheelers,RICKSHAW,0.0
+2016.0,Andhra Pradesh,4-Wheelers,CAR/CAB,6.0
+2016.0,Arunachal Pradesh,2-Wheelers,SCOOTER,1.0
+2016.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2016.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2016.0,Assam,2-Wheelers,SCOOTER,5.0
+2016.0,Assam,3-Wheelers,RICKSHAW,1.0
+2016.0,Assam,4-Wheelers,CAR/CAB,0.0
+2016.0,Bihar,2-Wheelers,SCOOTER,1.0
+2016.0,Bihar,3-Wheelers,RICKSHAW,1097.0
+2016.0,Bihar,4-Wheelers,CAR/CAB,1.0
+2016.0,Chandigarh,2-Wheelers,SCOOTER,1.0
+2016.0,Chandigarh,3-Wheelers,RICKSHAW,0.0
+2016.0,Chandigarh,4-Wheelers,CAR/CAB,0.0
+2016.0,Chhattisgarh,2-Wheelers,SCOOTER,65.0
+2016.0,Chhattisgarh,3-Wheelers,RICKSHAW,11.0
+2016.0,Chhattisgarh,4-Wheelers,CAR/CAB,2.0
+2016.0,DNH and DD,2-Wheelers,SCOOTER,0.0
+2016.0,DNH and DD,3-Wheelers,RICKSHAW,0.0
+2016.0,DNH and DD,4-Wheelers,CAR/CAB,0.0
+2016.0,Delhi,2-Wheelers,SCOOTER,18.0
+2016.0,Delhi,3-Wheelers,RICKSHAW,21584.0
+2016.0,Delhi,4-Wheelers,CAR/CAB,72.0
+2016.0,Goa,2-Wheelers,SCOOTER,27.0
+2016.0,Goa,3-Wheelers,RICKSHAW,1.0
+2016.0,Goa,4-Wheelers,CAR/CAB,6.0
+2016.0,Gujarat,2-Wheelers,SCOOTER,36.0
+2016.0,Gujarat,3-Wheelers,RICKSHAW,30.0
+2016.0,Gujarat,4-Wheelers,CAR/CAB,7.0
+2016.0,Haryana,2-Wheelers,SCOOTER,83.0
+2016.0,Haryana,3-Wheelers,RICKSHAW,1268.0
+2016.0,Haryana,4-Wheelers,CAR/CAB,8.0
+2016.0,Himachal Pradesh,2-Wheelers,SCOOTER,4.0
+2016.0,Himachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2016.0,Himachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2016.0,Jammu and Kashmir,2-Wheelers,SCOOTER,0.0
+2016.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,0.0
+2016.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,0.0
+2016.0,Jharkhand,2-Wheelers,SCOOTER,30.0
+2016.0,Jharkhand,3-Wheelers,RICKSHAW,674.0
+2016.0,Jharkhand,4-Wheelers,CAR/CAB,0.0
+2016.0,Karnataka,2-Wheelers,SCOOTER,56.0
+2016.0,Karnataka,3-Wheelers,RICKSHAW,74.0
+2016.0,Karnataka,4-Wheelers,CAR/CAB,430.0
+2016.0,Kerala,2-Wheelers,SCOOTER,8.0
+2016.0,Kerala,3-Wheelers,RICKSHAW,0.0
+2016.0,Kerala,4-Wheelers,CAR/CAB,11.0
+2016.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2016.0,Ladakh,3-Wheelers,RICKSHAW,0.0
+2016.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2016.0,Madhya Pradesh,2-Wheelers,SCOOTER,43.0
+2016.0,Madhya Pradesh,3-Wheelers,RICKSHAW,791.0
+2016.0,Madhya Pradesh,4-Wheelers,CAR/CAB,1.0
+2016.0,Maharashtra,2-Wheelers,SCOOTER,818.0
+2016.0,Maharashtra,3-Wheelers,RICKSHAW,2.0
+2016.0,Maharashtra,4-Wheelers,CAR/CAB,109.0
+2016.0,Manipur,2-Wheelers,SCOOTER,0.0
+2016.0,Manipur,3-Wheelers,RICKSHAW,1.0
+2016.0,Manipur,4-Wheelers,CAR/CAB,1.0
+2016.0,Meghalaya,2-Wheelers,SCOOTER,0.0
+2016.0,Meghalaya,3-Wheelers,RICKSHAW,0.0
+2016.0,Meghalaya,4-Wheelers,CAR/CAB,1.0
+2016.0,Mizoram,2-Wheelers,SCOOTER,1.0
+2016.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2016.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2016.0,Nagaland,2-Wheelers,SCOOTER,0.0
+2016.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2016.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2016.0,Odisha,2-Wheelers,SCOOTER,7.0
+2016.0,Odisha,3-Wheelers,RICKSHAW,2.0
+2016.0,Odisha,4-Wheelers,CAR/CAB,0.0
+2016.0,Puducherry,2-Wheelers,SCOOTER,5.0
+2016.0,Puducherry,3-Wheelers,RICKSHAW,2.0
+2016.0,Puducherry,4-Wheelers,CAR/CAB,0.0
+2016.0,Punjab,2-Wheelers,SCOOTER,9.0
+2016.0,Punjab,3-Wheelers,RICKSHAW,24.0
+2016.0,Punjab,4-Wheelers,CAR/CAB,1.0
+2016.0,Rajasthan,2-Wheelers,SCOOTER,55.0
+2016.0,Rajasthan,3-Wheelers,RICKSHAW,3930.0
+2016.0,Rajasthan,4-Wheelers,CAR/CAB,2.0
+2016.0,Sikkim,2-Wheelers,SCOOTER,1.0
+2016.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2016.0,Tamil Nadu,2-Wheelers,SCOOTER,9.0
+2016.0,Tamil Nadu,3-Wheelers,RICKSHAW,2.0
+2016.0,Tamil Nadu,4-Wheelers,CAR/CAB,19.0
+2016.0,Tripura,2-Wheelers,SCOOTER,0.0
+2016.0,Tripura,3-Wheelers,RICKSHAW,0.0
+2016.0,Tripura,4-Wheelers,CAR/CAB,0.0
+2016.0,Uttar Pradesh,2-Wheelers,SCOOTER,63.0
+2016.0,Uttar Pradesh,3-Wheelers,RICKSHAW,15242.0
+2016.0,Uttar Pradesh,4-Wheelers,CAR/CAB,0.0
+2016.0,Uttarakhand,2-Wheelers,SCOOTER,26.0
+2016.0,Uttarakhand,3-Wheelers,RICKSHAW,1125.0
+2016.0,Uttarakhand,4-Wheelers,CAR/CAB,0.0
+2016.0,West Bengal,2-Wheelers,SCOOTER,0.0
+2016.0,West Bengal,3-Wheelers,RICKSHAW,1491.0
+2016.0,West Bengal,4-Wheelers,CAR/CAB,15.0
+2017.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2017.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2017.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,0.0
+2017.0,Andhra Pradesh,2-Wheelers,SCOOTER,0.0
+2017.0,Andhra Pradesh,3-Wheelers,RICKSHAW,0.0
+2017.0,Andhra Pradesh,4-Wheelers,CAR/CAB,0.0
+2017.0,Arunachal Pradesh,2-Wheelers,SCOOTER,0.0
+2017.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2017.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2017.0,Assam,2-Wheelers,SCOOTER,5.0
+2017.0,Assam,3-Wheelers,RICKSHAW,3337.0
+2017.0,Assam,4-Wheelers,CAR/CAB,130.0
+2017.0,Bihar,2-Wheelers,SCOOTER,13.0
+2017.0,Bihar,3-Wheelers,RICKSHAW,3576.0
+2017.0,Bihar,4-Wheelers,CAR/CAB,0.0
+2017.0,Chandigarh,2-Wheelers,SCOOTER,1.0
+2017.0,Chandigarh,3-Wheelers,RICKSHAW,9.0
+2017.0,Chandigarh,4-Wheelers,CAR/CAB,13.0
+2017.0,Chhattisgarh,2-Wheelers,SCOOTER,52.0
+2017.0,Chhattisgarh,3-Wheelers,RICKSHAW,194.0
+2017.0,Chhattisgarh,4-Wheelers,CAR/CAB,5.0
+2017.0,DNH and DD,2-Wheelers,SCOOTER,1.0
+2017.0,DNH and DD,3-Wheelers,RICKSHAW,0.0
+2017.0,DNH and DD,4-Wheelers,CAR/CAB,0.0
+2017.0,Delhi,2-Wheelers,SCOOTER,53.0
+2017.0,Delhi,3-Wheelers,RICKSHAW,17825.0
+2017.0,Delhi,4-Wheelers,CAR/CAB,137.0
+2017.0,Goa,2-Wheelers,SCOOTER,22.0
+2017.0,Goa,3-Wheelers,RICKSHAW,3.0
+2017.0,Goa,4-Wheelers,CAR/CAB,13.0
+2017.0,Gujarat,2-Wheelers,SCOOTER,12.0
+2017.0,Gujarat,3-Wheelers,RICKSHAW,101.0
+2017.0,Gujarat,4-Wheelers,CAR/CAB,10.0
+2017.0,Haryana,2-Wheelers,SCOOTER,227.0
+2017.0,Haryana,3-Wheelers,RICKSHAW,2236.0
+2017.0,Haryana,4-Wheelers,CAR/CAB,10.0
+2017.0,Himachal Pradesh,2-Wheelers,SCOOTER,0.0
+2017.0,Himachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2017.0,Himachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2017.0,Jammu and Kashmir,2-Wheelers,SCOOTER,0.0
+2017.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,0.0
+2017.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,0.0
+2017.0,Jharkhand,2-Wheelers,SCOOTER,24.0
+2017.0,Jharkhand,3-Wheelers,RICKSHAW,1327.0
+2017.0,Jharkhand,4-Wheelers,CAR/CAB,0.0
+2017.0,Karnataka,2-Wheelers,SCOOTER,60.0
+2017.0,Karnataka,3-Wheelers,RICKSHAW,178.0
+2017.0,Karnataka,4-Wheelers,CAR/CAB,462.0
+2017.0,Kerala,2-Wheelers,SCOOTER,4.0
+2017.0,Kerala,3-Wheelers,RICKSHAW,13.0
+2017.0,Kerala,4-Wheelers,CAR/CAB,58.0
+2017.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2017.0,Ladakh,3-Wheelers,RICKSHAW,0.0
+2017.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2017.0,Madhya Pradesh,2-Wheelers,SCOOTER,81.0
+2017.0,Madhya Pradesh,3-Wheelers,RICKSHAW,1300.0
+2017.0,Madhya Pradesh,4-Wheelers,CAR/CAB,11.0
+2017.0,Maharashtra,2-Wheelers,SCOOTER,347.0
+2017.0,Maharashtra,3-Wheelers,RICKSHAW,394.0
+2017.0,Maharashtra,4-Wheelers,CAR/CAB,183.0
+2017.0,Manipur,2-Wheelers,SCOOTER,4.0
+2017.0,Manipur,3-Wheelers,RICKSHAW,1.0
+2017.0,Manipur,4-Wheelers,CAR/CAB,0.0
+2017.0,Meghalaya,2-Wheelers,SCOOTER,0.0
+2017.0,Meghalaya,3-Wheelers,RICKSHAW,0.0
+2017.0,Meghalaya,4-Wheelers,CAR/CAB,0.0
+2017.0,Mizoram,2-Wheelers,SCOOTER,0.0
+2017.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2017.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2017.0,Nagaland,2-Wheelers,SCOOTER,0.0
+2017.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2017.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2017.0,Odisha,2-Wheelers,SCOOTER,80.0
+2017.0,Odisha,3-Wheelers,RICKSHAW,107.0
+2017.0,Odisha,4-Wheelers,CAR/CAB,7.0
+2017.0,Puducherry,2-Wheelers,SCOOTER,3.0
+2017.0,Puducherry,3-Wheelers,RICKSHAW,1.0
+2017.0,Puducherry,4-Wheelers,CAR/CAB,3.0
+2017.0,Punjab,2-Wheelers,SCOOTER,35.0
+2017.0,Punjab,3-Wheelers,RICKSHAW,93.0
+2017.0,Punjab,4-Wheelers,CAR/CAB,4.0
+2017.0,Rajasthan,2-Wheelers,SCOOTER,72.0
+2017.0,Rajasthan,3-Wheelers,RICKSHAW,3863.0
+2017.0,Rajasthan,4-Wheelers,CAR/CAB,8.0
+2017.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2017.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2017.0,Tamil Nadu,2-Wheelers,SCOOTER,30.0
+2017.0,Tamil Nadu,3-Wheelers,RICKSHAW,1.0
+2017.0,Tamil Nadu,4-Wheelers,CAR/CAB,31.0
+2017.0,Tripura,2-Wheelers,SCOOTER,0.0
+2017.0,Tripura,3-Wheelers,RICKSHAW,0.0
+2017.0,Tripura,4-Wheelers,CAR/CAB,2.0
+2017.0,Uttar Pradesh,2-Wheelers,SCOOTER,293.0
+2017.0,Uttar Pradesh,3-Wheelers,RICKSHAW,40342.0
+2017.0,Uttar Pradesh,4-Wheelers,CAR/CAB,1.0
+2017.0,Uttarakhand,2-Wheelers,SCOOTER,27.0
+2017.0,Uttarakhand,3-Wheelers,RICKSHAW,4195.0
+2017.0,Uttarakhand,4-Wheelers,CAR/CAB,0.0
+2017.0,West Bengal,2-Wheelers,SCOOTER,0.0
+2017.0,West Bengal,3-Wheelers,RICKSHAW,4434.0
+2017.0,West Bengal,4-Wheelers,CAR/CAB,20.0
+2018.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2018.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2018.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,20.0
+2018.0,Andhra Pradesh,2-Wheelers,SCOOTER,1064.0
+2018.0,Andhra Pradesh,3-Wheelers,RICKSHAW,37.0
+2018.0,Andhra Pradesh,4-Wheelers,CAR/CAB,61.0
+2018.0,Arunachal Pradesh,2-Wheelers,SCOOTER,1.0
+2018.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2018.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2018.0,Assam,2-Wheelers,SCOOTER,69.0
+2018.0,Assam,3-Wheelers,RICKSHAW,7333.0
+2018.0,Assam,4-Wheelers,CAR/CAB,0.0
+2018.0,Bihar,2-Wheelers,SCOOTER,584.0
+2018.0,Bihar,3-Wheelers,RICKSHAW,7875.0
+2018.0,Bihar,4-Wheelers,CAR/CAB,1.0
+2018.0,Chandigarh,2-Wheelers,SCOOTER,29.0
+2018.0,Chandigarh,3-Wheelers,RICKSHAW,168.0
+2018.0,Chandigarh,4-Wheelers,CAR/CAB,4.0
+2018.0,Chhattisgarh,2-Wheelers,SCOOTER,384.0
+2018.0,Chhattisgarh,3-Wheelers,RICKSHAW,654.0
+2018.0,Chhattisgarh,4-Wheelers,CAR/CAB,7.0
+2018.0,DNH and DD,2-Wheelers,SCOOTER,1.0
+2018.0,DNH and DD,3-Wheelers,RICKSHAW,17.0
+2018.0,DNH and DD,4-Wheelers,CAR/CAB,0.0
+2018.0,Delhi,2-Wheelers,SCOOTER,233.0
+2018.0,Delhi,3-Wheelers,RICKSHAW,20287.0
+2018.0,Delhi,4-Wheelers,CAR/CAB,417.0
+2018.0,Goa,2-Wheelers,SCOOTER,4.0
+2018.0,Goa,3-Wheelers,RICKSHAW,0.0
+2018.0,Goa,4-Wheelers,CAR/CAB,18.0
+2018.0,Gujarat,2-Wheelers,SCOOTER,168.0
+2018.0,Gujarat,3-Wheelers,RICKSHAW,173.0
+2018.0,Gujarat,4-Wheelers,CAR/CAB,7.0
+2018.0,Haryana,2-Wheelers,SCOOTER,1282.0
+2018.0,Haryana,3-Wheelers,RICKSHAW,3076.0
+2018.0,Haryana,4-Wheelers,CAR/CAB,29.0
+2018.0,Himachal Pradesh,2-Wheelers,SCOOTER,1.0
+2018.0,Himachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2018.0,Himachal Pradesh,4-Wheelers,CAR/CAB,1.0
+2018.0,Jammu and Kashmir,2-Wheelers,SCOOTER,32.0
+2018.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,0.0
+2018.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,0.0
+2018.0,Jharkhand,2-Wheelers,SCOOTER,336.0
+2018.0,Jharkhand,3-Wheelers,RICKSHAW,1600.0
+2018.0,Jharkhand,4-Wheelers,CAR/CAB,20.0
+2018.0,Karnataka,2-Wheelers,SCOOTER,1350.0
+2018.0,Karnataka,3-Wheelers,RICKSHAW,222.0
+2018.0,Karnataka,4-Wheelers,CAR/CAB,629.0
+2018.0,Kerala,2-Wheelers,SCOOTER,161.0
+2018.0,Kerala,3-Wheelers,RICKSHAW,38.0
+2018.0,Kerala,4-Wheelers,CAR/CAB,59.0
+2018.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2018.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2018.0,Madhya Pradesh,2-Wheelers,SCOOTER,566.0
+2018.0,Madhya Pradesh,3-Wheelers,RICKSHAW,2143.0
+2018.0,Madhya Pradesh,4-Wheelers,CAR/CAB,22.0
+2018.0,Maharashtra,2-Wheelers,SCOOTER,2677.0
+2018.0,Maharashtra,3-Wheelers,RICKSHAW,1299.0
+2018.0,Maharashtra,4-Wheelers,CAR/CAB,192.0
+2018.0,Manipur,2-Wheelers,SCOOTER,1.0
+2018.0,Manipur,3-Wheelers,RICKSHAW,37.0
+2018.0,Manipur,4-Wheelers,CAR/CAB,0.0
+2018.0,Meghalaya,2-Wheelers,SCOOTER,2.0
+2018.0,Meghalaya,3-Wheelers,RICKSHAW,0.0
+2018.0,Meghalaya,4-Wheelers,CAR/CAB,0.0
+2018.0,Mizoram,2-Wheelers,SCOOTER,0.0
+2018.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2018.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2018.0,Nagaland,2-Wheelers,SCOOTER,0.0
+2018.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2018.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2018.0,Odisha,2-Wheelers,SCOOTER,888.0
+2018.0,Odisha,3-Wheelers,RICKSHAW,345.0
+2018.0,Odisha,4-Wheelers,CAR/CAB,5.0
+2018.0,Puducherry,2-Wheelers,SCOOTER,83.0
+2018.0,Puducherry,3-Wheelers,RICKSHAW,2.0
+2018.0,Puducherry,4-Wheelers,CAR/CAB,2.0
+2018.0,Punjab,2-Wheelers,SCOOTER,268.0
+2018.0,Punjab,3-Wheelers,RICKSHAW,68.0
+2018.0,Punjab,4-Wheelers,CAR/CAB,4.0
+2018.0,Rajasthan,2-Wheelers,SCOOTER,1315.0
+2018.0,Rajasthan,3-Wheelers,RICKSHAW,3151.0
+2018.0,Rajasthan,4-Wheelers,CAR/CAB,15.0
+2018.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2018.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2018.0,Tamil Nadu,2-Wheelers,SCOOTER,1143.0
+2018.0,Tamil Nadu,3-Wheelers,RICKSHAW,1.0
+2018.0,Tamil Nadu,4-Wheelers,CAR/CAB,43.0
+2018.0,Tripura,2-Wheelers,SCOOTER,31.0
+2018.0,Tripura,3-Wheelers,RICKSHAW,1.0
+2018.0,Tripura,4-Wheelers,CAR/CAB,0.0
+2018.0,Uttar Pradesh,2-Wheelers,SCOOTER,2497.0
+2018.0,Uttar Pradesh,3-Wheelers,RICKSHAW,50422.0
+2018.0,Uttar Pradesh,4-Wheelers,CAR/CAB,12.0
+2018.0,Uttarakhand,2-Wheelers,SCOOTER,254.0
+2018.0,Uttarakhand,3-Wheelers,RICKSHAW,4814.0
+2018.0,Uttarakhand,4-Wheelers,CAR/CAB,1.0
+2018.0,West Bengal,2-Wheelers,SCOOTER,14.0
+2018.0,West Bengal,3-Wheelers,RICKSHAW,6688.0
+2018.0,West Bengal,4-Wheelers,CAR/CAB,19.0
+2019.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2019.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2019.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,2.0
+2019.0,Andhra Pradesh,2-Wheelers,SCOOTER,1360.0
+2019.0,Andhra Pradesh,3-Wheelers,RICKSHAW,505.0
+2019.0,Andhra Pradesh,4-Wheelers,CAR/CAB,255.0
+2019.0,Arunachal Pradesh,2-Wheelers,SCOOTER,1.0
+2019.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2019.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2019.0,Assam,2-Wheelers,SCOOTER,98.0
+2019.0,Assam,3-Wheelers,RICKSHAW,10753.0
+2019.0,Assam,4-Wheelers,CAR/CAB,1.0
+2019.0,Bihar,2-Wheelers,SCOOTER,654.0
+2019.0,Bihar,3-Wheelers,RICKSHAW,11653.0
+2019.0,Bihar,4-Wheelers,CAR/CAB,11.0
+2019.0,Chandigarh,2-Wheelers,SCOOTER,18.0
+2019.0,Chandigarh,3-Wheelers,RICKSHAW,479.0
+2019.0,Chandigarh,4-Wheelers,CAR/CAB,7.0
+2019.0,Chhattisgarh,2-Wheelers,SCOOTER,681.0
+2019.0,Chhattisgarh,3-Wheelers,RICKSHAW,1824.0
+2019.0,Chhattisgarh,4-Wheelers,CAR/CAB,7.0
+2019.0,DNH and DD,2-Wheelers,SCOOTER,4.0
+2019.0,DNH and DD,3-Wheelers,RICKSHAW,12.0
+2019.0,DNH and DD,4-Wheelers,CAR/CAB,0.0
+2019.0,Delhi,2-Wheelers,SCOOTER,1048.0
+2019.0,Delhi,3-Wheelers,RICKSHAW,21707.0
+2019.0,Delhi,4-Wheelers,CAR/CAB,452.0
+2019.0,Goa,2-Wheelers,SCOOTER,28.0
+2019.0,Goa,3-Wheelers,RICKSHAW,7.0
+2019.0,Goa,4-Wheelers,CAR/CAB,2.0
+2019.0,Gujarat,2-Wheelers,SCOOTER,181.0
+2019.0,Gujarat,3-Wheelers,RICKSHAW,356.0
+2019.0,Gujarat,4-Wheelers,CAR/CAB,24.0
+2019.0,Haryana,2-Wheelers,SCOOTER,948.0
+2019.0,Haryana,3-Wheelers,RICKSHAW,3902.0
+2019.0,Haryana,4-Wheelers,CAR/CAB,23.0
+2019.0,Himachal Pradesh,2-Wheelers,SCOOTER,1.0
+2019.0,Himachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2019.0,Himachal Pradesh,4-Wheelers,CAR/CAB,2.0
+2019.0,Jammu and Kashmir,2-Wheelers,SCOOTER,25.0
+2019.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,0.0
+2019.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,0.0
+2019.0,Jharkhand,2-Wheelers,SCOOTER,211.0
+2019.0,Jharkhand,3-Wheelers,RICKSHAW,1645.0
+2019.0,Jharkhand,4-Wheelers,CAR/CAB,45.0
+2019.0,Karnataka,2-Wheelers,SCOOTER,5407.0
+2019.0,Karnataka,3-Wheelers,RICKSHAW,164.0
+2019.0,Karnataka,4-Wheelers,CAR/CAB,401.0
+2019.0,Kerala,2-Wheelers,SCOOTER,263.0
+2019.0,Kerala,3-Wheelers,RICKSHAW,142.0
+2019.0,Kerala,4-Wheelers,CAR/CAB,32.0
+2019.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2019.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2019.0,Madhya Pradesh,2-Wheelers,SCOOTER,1267.0
+2019.0,Madhya Pradesh,3-Wheelers,RICKSHAW,2342.0
+2019.0,Madhya Pradesh,4-Wheelers,CAR/CAB,19.0
+2019.0,Maharashtra,2-Wheelers,SCOOTER,4903.0
+2019.0,Maharashtra,3-Wheelers,RICKSHAW,1134.0
+2019.0,Maharashtra,4-Wheelers,CAR/CAB,270.0
+2019.0,Manipur,2-Wheelers,SCOOTER,35.0
+2019.0,Manipur,3-Wheelers,RICKSHAW,204.0
+2019.0,Manipur,4-Wheelers,CAR/CAB,0.0
+2019.0,Meghalaya,2-Wheelers,SCOOTER,10.0
+2019.0,Meghalaya,3-Wheelers,RICKSHAW,3.0
+2019.0,Meghalaya,4-Wheelers,CAR/CAB,0.0
+2019.0,Mizoram,2-Wheelers,SCOOTER,1.0
+2019.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2019.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2019.0,Nagaland,2-Wheelers,SCOOTER,28.0
+2019.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2019.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2019.0,Odisha,2-Wheelers,SCOOTER,765.0
+2019.0,Odisha,3-Wheelers,RICKSHAW,323.0
+2019.0,Odisha,4-Wheelers,CAR/CAB,1.0
+2019.0,Puducherry,2-Wheelers,SCOOTER,79.0
+2019.0,Puducherry,3-Wheelers,RICKSHAW,1.0
+2019.0,Puducherry,4-Wheelers,CAR/CAB,0.0
+2019.0,Punjab,2-Wheelers,SCOOTER,368.0
+2019.0,Punjab,3-Wheelers,RICKSHAW,456.0
+2019.0,Punjab,4-Wheelers,CAR/CAB,3.0
+2019.0,Rajasthan,2-Wheelers,SCOOTER,1686.0
+2019.0,Rajasthan,3-Wheelers,RICKSHAW,4609.0
+2019.0,Rajasthan,4-Wheelers,CAR/CAB,9.0
+2019.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2019.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2019.0,Tamil Nadu,2-Wheelers,SCOOTER,2715.0
+2019.0,Tamil Nadu,3-Wheelers,RICKSHAW,0.0
+2019.0,Tamil Nadu,4-Wheelers,CAR/CAB,52.0
+2019.0,Tripura,2-Wheelers,SCOOTER,20.0
+2019.0,Tripura,3-Wheelers,RICKSHAW,1435.0
+2019.0,Tripura,4-Wheelers,CAR/CAB,4.0
+2019.0,Uttar Pradesh,2-Wheelers,SCOOTER,3440.0
+2019.0,Uttar Pradesh,3-Wheelers,RICKSHAW,52007.0
+2019.0,Uttar Pradesh,4-Wheelers,CAR/CAB,30.0
+2019.0,Uttarakhand,2-Wheelers,SCOOTER,492.0
+2019.0,Uttarakhand,3-Wheelers,RICKSHAW,5324.0
+2019.0,Uttarakhand,4-Wheelers,CAR/CAB,2.0
+2019.0,West Bengal,2-Wheelers,SCOOTER,242.0
+2019.0,West Bengal,3-Wheelers,RICKSHAW,13181.0
+2019.0,West Bengal,4-Wheelers,CAR/CAB,12.0
+2020.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2020.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2020.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,34.0
+2020.0,Andhra Pradesh,2-Wheelers,SCOOTER,913.0
+2020.0,Andhra Pradesh,3-Wheelers,RICKSHAW,648.0
+2020.0,Andhra Pradesh,4-Wheelers,CAR/CAB,57.0
+2020.0,Arunachal Pradesh,2-Wheelers,SCOOTER,1.0
+2020.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2020.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,4.0
+2020.0,Assam,2-Wheelers,SCOOTER,40.0
+2020.0,Assam,3-Wheelers,RICKSHAW,8310.0
+2020.0,Assam,4-Wheelers,CAR/CAB,7.0
+2020.0,Bihar,2-Wheelers,SCOOTER,381.0
+2020.0,Bihar,3-Wheelers,RICKSHAW,12041.0
+2020.0,Bihar,4-Wheelers,CAR/CAB,22.0
+2020.0,Chandigarh,2-Wheelers,SCOOTER,11.0
+2020.0,Chandigarh,3-Wheelers,RICKSHAW,322.0
+2020.0,Chandigarh,4-Wheelers,CAR/CAB,35.0
+2020.0,Chhattisgarh,2-Wheelers,SCOOTER,469.0
+2020.0,Chhattisgarh,3-Wheelers,RICKSHAW,872.0
+2020.0,Chhattisgarh,4-Wheelers,CAR/CAB,7.0
+2020.0,DNH and DD,2-Wheelers,SCOOTER,3.0
+2020.0,DNH and DD,3-Wheelers,RICKSHAW,7.0
+2020.0,DNH and DD,4-Wheelers,CAR/CAB,2.0
+2020.0,Delhi,2-Wheelers,SCOOTER,1159.0
+2020.0,Delhi,3-Wheelers,RICKSHAW,10328.0
+2020.0,Delhi,4-Wheelers,CAR/CAB,886.0
+2020.0,Goa,2-Wheelers,SCOOTER,48.0
+2020.0,Goa,3-Wheelers,RICKSHAW,2.0
+2020.0,Goa,4-Wheelers,CAR/CAB,22.0
+2020.0,Gujarat,2-Wheelers,SCOOTER,423.0
+2020.0,Gujarat,3-Wheelers,RICKSHAW,338.0
+2020.0,Gujarat,4-Wheelers,CAR/CAB,227.0
+2020.0,Haryana,2-Wheelers,SCOOTER,255.0
+2020.0,Haryana,3-Wheelers,RICKSHAW,2608.0
+2020.0,Haryana,4-Wheelers,CAR/CAB,97.0
+2020.0,Himachal Pradesh,2-Wheelers,SCOOTER,22.0
+2020.0,Himachal Pradesh,3-Wheelers,RICKSHAW,155.0
+2020.0,Himachal Pradesh,4-Wheelers,CAR/CAB,3.0
+2020.0,Jammu and Kashmir,2-Wheelers,SCOOTER,12.0
+2020.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,0.0
+2020.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,0.0
+2020.0,Jharkhand,2-Wheelers,SCOOTER,271.0
+2020.0,Jharkhand,3-Wheelers,RICKSHAW,1184.0
+2020.0,Jharkhand,4-Wheelers,CAR/CAB,37.0
+2020.0,Karnataka,2-Wheelers,SCOOTER,8327.0
+2020.0,Karnataka,3-Wheelers,RICKSHAW,304.0
+2020.0,Karnataka,4-Wheelers,CAR/CAB,727.0
+2020.0,Kerala,2-Wheelers,SCOOTER,348.0
+2020.0,Kerala,3-Wheelers,RICKSHAW,641.0
+2020.0,Kerala,4-Wheelers,CAR/CAB,394.0
+2020.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2020.0,Ladakh,3-Wheelers,RICKSHAW,0.0
+2020.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2020.0,Madhya Pradesh,2-Wheelers,SCOOTER,928.0
+2020.0,Madhya Pradesh,3-Wheelers,RICKSHAW,2402.0
+2020.0,Madhya Pradesh,4-Wheelers,CAR/CAB,28.0
+2020.0,Maharashtra,2-Wheelers,SCOOTER,5063.0
+2020.0,Maharashtra,3-Wheelers,RICKSHAW,1057.0
+2020.0,Maharashtra,4-Wheelers,CAR/CAB,936.0
+2020.0,Manipur,2-Wheelers,SCOOTER,4.0
+2020.0,Manipur,3-Wheelers,RICKSHAW,97.0
+2020.0,Manipur,4-Wheelers,CAR/CAB,0.0
+2020.0,Meghalaya,2-Wheelers,SCOOTER,3.0
+2020.0,Meghalaya,3-Wheelers,RICKSHAW,0.0
+2020.0,Meghalaya,4-Wheelers,CAR/CAB,0.0
+2020.0,Mizoram,2-Wheelers,SCOOTER,1.0
+2020.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2020.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2020.0,Nagaland,2-Wheelers,SCOOTER,11.0
+2020.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2020.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2020.0,Odisha,2-Wheelers,SCOOTER,533.0
+2020.0,Odisha,3-Wheelers,RICKSHAW,273.0
+2020.0,Odisha,4-Wheelers,CAR/CAB,21.0
+2020.0,Puducherry,2-Wheelers,SCOOTER,78.0
+2020.0,Puducherry,3-Wheelers,RICKSHAW,2.0
+2020.0,Puducherry,4-Wheelers,CAR/CAB,0.0
+2020.0,Punjab,2-Wheelers,SCOOTER,105.0
+2020.0,Punjab,3-Wheelers,RICKSHAW,692.0
+2020.0,Punjab,4-Wheelers,CAR/CAB,10.0
+2020.0,Rajasthan,2-Wheelers,SCOOTER,1767.0
+2020.0,Rajasthan,3-Wheelers,RICKSHAW,3521.0
+2020.0,Rajasthan,4-Wheelers,CAR/CAB,114.0
+2020.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2020.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2020.0,Tamil Nadu,2-Wheelers,SCOOTER,4351.0
+2020.0,Tamil Nadu,3-Wheelers,RICKSHAW,2.0
+2020.0,Tamil Nadu,4-Wheelers,CAR/CAB,281.0
+2020.0,Tripura,2-Wheelers,SCOOTER,7.0
+2020.0,Tripura,3-Wheelers,RICKSHAW,3414.0
+2020.0,Tripura,4-Wheelers,CAR/CAB,0.0
+2020.0,Uttar Pradesh,2-Wheelers,SCOOTER,1099.0
+2020.0,Uttar Pradesh,3-Wheelers,RICKSHAW,29930.0
+2020.0,Uttar Pradesh,4-Wheelers,CAR/CAB,134.0
+2020.0,Uttarakhand,2-Wheelers,SCOOTER,178.0
+2020.0,Uttarakhand,3-Wheelers,RICKSHAW,2205.0
+2020.0,Uttarakhand,4-Wheelers,CAR/CAB,15.0
+2020.0,West Bengal,2-Wheelers,SCOOTER,97.0
+2020.0,West Bengal,3-Wheelers,RICKSHAW,9881.0
+2020.0,West Bengal,4-Wheelers,CAR/CAB,101.0
+2021.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,0.0
+2021.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,30.0
+2021.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,22.0
+2021.0,Andhra Pradesh,2-Wheelers,SCOOTER,7784.0
+2021.0,Andhra Pradesh,3-Wheelers,RICKSHAW,1231.0
+2021.0,Andhra Pradesh,4-Wheelers,CAR/CAB,387.0
+2021.0,Arunachal Pradesh,2-Wheelers,SCOOTER,2.0
+2021.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2021.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,0.0
+2021.0,Assam,2-Wheelers,SCOOTER,378.0
+2021.0,Assam,3-Wheelers,RICKSHAW,15247.0
+2021.0,Assam,4-Wheelers,CAR/CAB,7.0
+2021.0,Bihar,2-Wheelers,SCOOTER,2774.0
+2021.0,Bihar,3-Wheelers,RICKSHAW,20206.0
+2021.0,Bihar,4-Wheelers,CAR/CAB,61.0
+2021.0,Chandigarh,2-Wheelers,SCOOTER,123.0
+2021.0,Chandigarh,3-Wheelers,RICKSHAW,386.0
+2021.0,Chandigarh,4-Wheelers,CAR/CAB,111.0
+2021.0,Chhattisgarh,2-Wheelers,SCOOTER,2063.0
+2021.0,Chhattisgarh,3-Wheelers,RICKSHAW,1514.0
+2021.0,Chhattisgarh,4-Wheelers,CAR/CAB,70.0
+2021.0,DNH and DD,2-Wheelers,SCOOTER,11.0
+2021.0,DNH and DD,3-Wheelers,RICKSHAW,0.0
+2021.0,DNH and DD,4-Wheelers,CAR/CAB,3.0
+2021.0,Delhi,2-Wheelers,SCOOTER,7556.0
+2021.0,Delhi,3-Wheelers,RICKSHAW,16248.0
+2021.0,Delhi,4-Wheelers,CAR/CAB,1959.0
+2021.0,Goa,2-Wheelers,SCOOTER,834.0
+2021.0,Goa,3-Wheelers,RICKSHAW,14.0
+2021.0,Goa,4-Wheelers,CAR/CAB,189.0
+2021.0,Gujarat,2-Wheelers,SCOOTER,5222.0
+2021.0,Gujarat,3-Wheelers,RICKSHAW,753.0
+2021.0,Gujarat,4-Wheelers,CAR/CAB,857.0
+2021.0,Haryana,2-Wheelers,SCOOTER,3537.0
+2021.0,Haryana,3-Wheelers,RICKSHAW,4807.0
+2021.0,Haryana,4-Wheelers,CAR/CAB,60.0
+2021.0,Himachal Pradesh,2-Wheelers,SCOOTER,303.0
+2021.0,Himachal Pradesh,3-Wheelers,RICKSHAW,11.0
+2021.0,Himachal Pradesh,4-Wheelers,CAR/CAB,12.0
+2021.0,Jammu and Kashmir,2-Wheelers,SCOOTER,33.0
+2021.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,11.0
+2021.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,5.0
+2021.0,Jharkhand,2-Wheelers,SCOOTER,1596.0
+2021.0,Jharkhand,3-Wheelers,RICKSHAW,2019.0
+2021.0,Jharkhand,4-Wheelers,CAR/CAB,48.0
+2021.0,Karnataka,2-Wheelers,SCOOTER,27425.0
+2021.0,Karnataka,3-Wheelers,RICKSHAW,2146.0
+2021.0,Karnataka,4-Wheelers,CAR/CAB,1487.0
+2021.0,Kerala,2-Wheelers,SCOOTER,5878.0
+2021.0,Kerala,3-Wheelers,RICKSHAW,1276.0
+2021.0,Kerala,4-Wheelers,CAR/CAB,1644.0
+2021.0,Ladakh,2-Wheelers,SCOOTER,6.0
+2021.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2021.0,Madhya Pradesh,2-Wheelers,SCOOTER,5102.0
+2021.0,Madhya Pradesh,3-Wheelers,RICKSHAW,5133.0
+2021.0,Madhya Pradesh,4-Wheelers,CAR/CAB,192.0
+2021.0,Maharashtra,2-Wheelers,SCOOTER,23151.0
+2021.0,Maharashtra,3-Wheelers,RICKSHAW,1938.0
+2021.0,Maharashtra,4-Wheelers,CAR/CAB,3740.0
+2021.0,Manipur,2-Wheelers,SCOOTER,20.0
+2021.0,Manipur,3-Wheelers,RICKSHAW,94.0
+2021.0,Manipur,4-Wheelers,CAR/CAB,0.0
+2021.0,Meghalaya,2-Wheelers,SCOOTER,0.0
+2021.0,Meghalaya,3-Wheelers,RICKSHAW,2.0
+2021.0,Meghalaya,4-Wheelers,CAR/CAB,3.0
+2021.0,Mizoram,2-Wheelers,SCOOTER,0.0
+2021.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2021.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2021.0,Nagaland,2-Wheelers,SCOOTER,2.0
+2021.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2021.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2021.0,Odisha,2-Wheelers,SCOOTER,4593.0
+2021.0,Odisha,3-Wheelers,RICKSHAW,623.0
+2021.0,Odisha,4-Wheelers,CAR/CAB,60.0
+2021.0,Puducherry,2-Wheelers,SCOOTER,367.0
+2021.0,Puducherry,3-Wheelers,RICKSHAW,4.0
+2021.0,Puducherry,4-Wheelers,CAR/CAB,9.0
+2021.0,Punjab,2-Wheelers,SCOOTER,2410.0
+2021.0,Punjab,3-Wheelers,RICKSHAW,1335.0
+2021.0,Punjab,4-Wheelers,CAR/CAB,33.0
+2021.0,Rajasthan,2-Wheelers,SCOOTER,12576.0
+2021.0,Rajasthan,3-Wheelers,RICKSHAW,8936.0
+2021.0,Rajasthan,4-Wheelers,CAR/CAB,554.0
+2021.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2021.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2021.0,Tamil Nadu,2-Wheelers,SCOOTER,19010.0
+2021.0,Tamil Nadu,3-Wheelers,RICKSHAW,4263.0
+2021.0,Tamil Nadu,4-Wheelers,CAR/CAB,949.0
+2021.0,Tripura,2-Wheelers,SCOOTER,3.0
+2021.0,Tripura,3-Wheelers,RICKSHAW,2426.0
+2021.0,Tripura,4-Wheelers,CAR/CAB,5.0
+2021.0,Uttar Pradesh,2-Wheelers,SCOOTER,5796.0
+2021.0,Uttar Pradesh,3-Wheelers,RICKSHAW,60117.0
+2021.0,Uttar Pradesh,4-Wheelers,CAR/CAB,79.0
+2021.0,Uttarakhand,2-Wheelers,SCOOTER,1210.0
+2021.0,Uttarakhand,3-Wheelers,RICKSHAW,3981.0
+2021.0,Uttarakhand,4-Wheelers,CAR/CAB,122.0
+2021.0,West Bengal,2-Wheelers,SCOOTER,915.0
+2021.0,West Bengal,3-Wheelers,RICKSHAW,5158.0
+2021.0,West Bengal,4-Wheelers,CAR/CAB,334.0
+2022.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,16.0
+2022.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2022.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,7.0
+2022.0,Andhra Pradesh,2-Wheelers,SCOOTER,25978.0
+2022.0,Andhra Pradesh,3-Wheelers,RICKSHAW,608.0
+2022.0,Andhra Pradesh,4-Wheelers,CAR/CAB,747.0
+2022.0,Arunachal Pradesh,2-Wheelers,SCOOTER,1.0
+2022.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2022.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,1.0
+2022.0,Assam,2-Wheelers,SCOOTER,1902.0
+2022.0,Assam,3-Wheelers,RICKSHAW,38729.0
+2022.0,Assam,4-Wheelers,CAR/CAB,82.0
+2022.0,Bihar,2-Wheelers,SCOOTER,9755.0
+2022.0,Bihar,3-Wheelers,RICKSHAW,45666.0
+2022.0,Bihar,4-Wheelers,CAR/CAB,135.0
+2022.0,Chandigarh,2-Wheelers,SCOOTER,823.0
+2022.0,Chandigarh,3-Wheelers,RICKSHAW,1550.0
+2022.0,Chandigarh,4-Wheelers,CAR/CAB,272.0
+2022.0,Chhattisgarh,2-Wheelers,SCOOTER,13619.0
+2022.0,Chhattisgarh,3-Wheelers,RICKSHAW,5602.0
+2022.0,Chhattisgarh,4-Wheelers,CAR/CAB,364.0
+2022.0,DNH and DD,2-Wheelers,SCOOTER,28.0
+2022.0,DNH and DD,3-Wheelers,RICKSHAW,20.0
+2022.0,DNH and DD,4-Wheelers,CAR/CAB,16.0
+2022.0,Delhi,2-Wheelers,SCOOTER,34595.0
+2022.0,Delhi,3-Wheelers,RICKSHAW,21623.0
+2022.0,Delhi,4-Wheelers,CAR/CAB,5642.0
+2022.0,Goa,2-Wheelers,SCOOTER,4921.0
+2022.0,Goa,3-Wheelers,RICKSHAW,38.0
+2022.0,Goa,4-Wheelers,CAR/CAB,624.0
+2022.0,Gujarat,2-Wheelers,SCOOTER,56506.0
+2022.0,Gujarat,3-Wheelers,RICKSHAW,1366.0
+2022.0,Gujarat,4-Wheelers,CAR/CAB,2805.0
+2022.0,Haryana,2-Wheelers,SCOOTER,11183.0
+2022.0,Haryana,3-Wheelers,RICKSHAW,13321.0
+2022.0,Haryana,4-Wheelers,CAR/CAB,831.0
+2022.0,Himachal Pradesh,2-Wheelers,SCOOTER,943.0
+2022.0,Himachal Pradesh,3-Wheelers,RICKSHAW,18.0
+2022.0,Himachal Pradesh,4-Wheelers,CAR/CAB,43.0
+2022.0,Jammu and Kashmir,2-Wheelers,SCOOTER,419.0
+2022.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,2508.0
+2022.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,48.0
+2022.0,Jharkhand,2-Wheelers,SCOOTER,6409.0
+2022.0,Jharkhand,3-Wheelers,RICKSHAW,6794.0
+2022.0,Jharkhand,4-Wheelers,CAR/CAB,157.0
+2022.0,Karnataka,2-Wheelers,SCOOTER,82308.0
+2022.0,Karnataka,3-Wheelers,RICKSHAW,4305.0
+2022.0,Karnataka,4-Wheelers,CAR/CAB,4331.0
+2022.0,Kerala,2-Wheelers,SCOOTER,33267.0
+2022.0,Kerala,3-Wheelers,RICKSHAW,2367.0
+2022.0,Kerala,4-Wheelers,CAR/CAB,3821.0
+2022.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2022.0,Ladakh,3-Wheelers,RICKSHAW,0.0
+2022.0,Ladakh,4-Wheelers,CAR/CAB,10.0
+2022.0,Madhya Pradesh,2-Wheelers,SCOOTER,22388.0
+2022.0,Madhya Pradesh,3-Wheelers,RICKSHAW,13825.0
+2022.0,Madhya Pradesh,4-Wheelers,CAR/CAB,534.0
+2022.0,Maharashtra,2-Wheelers,SCOOTER,113218.0
+2022.0,Maharashtra,3-Wheelers,RICKSHAW,6427.0
+2022.0,Maharashtra,4-Wheelers,CAR/CAB,11692.0
+2022.0,Manipur,2-Wheelers,SCOOTER,125.0
+2022.0,Manipur,3-Wheelers,RICKSHAW,215.0
+2022.0,Manipur,4-Wheelers,CAR/CAB,1.0
+2022.0,Meghalaya,2-Wheelers,SCOOTER,22.0
+2022.0,Meghalaya,3-Wheelers,RICKSHAW,9.0
+2022.0,Meghalaya,4-Wheelers,CAR/CAB,11.0
+2022.0,Mizoram,2-Wheelers,SCOOTER,36.0
+2022.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2022.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2022.0,Nagaland,2-Wheelers,SCOOTER,3.0
+2022.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2022.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2022.0,Odisha,2-Wheelers,SCOOTER,24430.0
+2022.0,Odisha,3-Wheelers,RICKSHAW,2253.0
+2022.0,Odisha,4-Wheelers,CAR/CAB,438.0
+2022.0,Puducherry,2-Wheelers,SCOOTER,1399.0
+2022.0,Puducherry,3-Wheelers,RICKSHAW,25.0
+2022.0,Puducherry,4-Wheelers,CAR/CAB,44.0
+2022.0,Punjab,2-Wheelers,SCOOTER,5705.0
+2022.0,Punjab,3-Wheelers,RICKSHAW,6383.0
+2022.0,Punjab,4-Wheelers,CAR/CAB,42.0
+2022.0,Rajasthan,2-Wheelers,SCOOTER,50350.0
+2022.0,Rajasthan,3-Wheelers,RICKSHAW,22633.0
+2022.0,Rajasthan,4-Wheelers,CAR/CAB,1468.0
+2022.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2022.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2022.0,Tamil Nadu,2-Wheelers,SCOOTER,52471.0
+2022.0,Tamil Nadu,3-Wheelers,RICKSHAW,2691.0
+2022.0,Tamil Nadu,4-Wheelers,CAR/CAB,2456.0
+2022.0,Tripura,2-Wheelers,SCOOTER,186.0
+2022.0,Tripura,3-Wheelers,RICKSHAW,3975.0
+2022.0,Tripura,4-Wheelers,CAR/CAB,0.0
+2022.0,Uttar Pradesh,2-Wheelers,SCOOTER,22549.0
+2022.0,Uttar Pradesh,3-Wheelers,RICKSHAW,138569.0
+2022.0,Uttar Pradesh,4-Wheelers,CAR/CAB,210.0
+2022.0,Uttarakhand,2-Wheelers,SCOOTER,5695.0
+2022.0,Uttarakhand,3-Wheelers,RICKSHAW,9456.0
+2022.0,Uttarakhand,4-Wheelers,CAR/CAB,385.0
+2022.0,West Bengal,2-Wheelers,SCOOTER,8024.0
+2022.0,West Bengal,3-Wheelers,RICKSHAW,1766.0
+2022.0,West Bengal,4-Wheelers,CAR/CAB,953.0
+2023.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,12.0
+2023.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2023.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,14.0
+2023.0,Andhra Pradesh,2-Wheelers,SCOOTER,26095.0
+2023.0,Andhra Pradesh,3-Wheelers,RICKSHAW,1062.0
+2023.0,Andhra Pradesh,4-Wheelers,CAR/CAB,1623.0
+2023.0,Arunachal Pradesh,2-Wheelers,SCOOTER,3.0
+2023.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,0.0
+2023.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,18.0
+2023.0,Assam,2-Wheelers,SCOOTER,2455.0
+2023.0,Assam,3-Wheelers,RICKSHAW,57900.0
+2023.0,Assam,4-Wheelers,CAR/CAB,269.0
+2023.0,Bihar,2-Wheelers,SCOOTER,12344.0
+2023.0,Bihar,3-Wheelers,RICKSHAW,75191.0
+2023.0,Bihar,4-Wheelers,CAR/CAB,587.0
+2023.0,Chandigarh,2-Wheelers,SCOOTER,2144.0
+2023.0,Chandigarh,3-Wheelers,RICKSHAW,3202.0
+2023.0,Chandigarh,4-Wheelers,CAR/CAB,956.0
+2023.0,Chhattisgarh,2-Wheelers,SCOOTER,24028.0
+2023.0,Chhattisgarh,3-Wheelers,RICKSHAW,11351.0
+2023.0,Chhattisgarh,4-Wheelers,CAR/CAB,1171.0
+2023.0,DNH and DD,2-Wheelers,SCOOTER,56.0
+2023.0,DNH and DD,3-Wheelers,RICKSHAW,17.0
+2023.0,DNH and DD,4-Wheelers,CAR/CAB,43.0
+2023.0,Delhi,2-Wheelers,SCOOTER,37425.0
+2023.0,Delhi,3-Wheelers,RICKSHAW,26344.0
+2023.0,Delhi,4-Wheelers,CAR/CAB,8177.0
+2023.0,Goa,2-Wheelers,SCOOTER,8328.0
+2023.0,Goa,3-Wheelers,RICKSHAW,45.0
+2023.0,Goa,4-Wheelers,CAR/CAB,962.0
+2023.0,Gujarat,2-Wheelers,SCOOTER,73441.0
+2023.0,Gujarat,3-Wheelers,RICKSHAW,3041.0
+2023.0,Gujarat,4-Wheelers,CAR/CAB,6573.0
+2023.0,Haryana,2-Wheelers,SCOOTER,7299.0
+2023.0,Haryana,3-Wheelers,RICKSHAW,20321.0
+2023.0,Haryana,4-Wheelers,CAR/CAB,2656.0
+2023.0,Himachal Pradesh,2-Wheelers,SCOOTER,829.0
+2023.0,Himachal Pradesh,3-Wheelers,RICKSHAW,39.0
+2023.0,Himachal Pradesh,4-Wheelers,CAR/CAB,152.0
+2023.0,Jammu and Kashmir,2-Wheelers,SCOOTER,234.0
+2023.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,7599.0
+2023.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,143.0
+2023.0,Jharkhand,2-Wheelers,SCOOTER,7257.0
+2023.0,Jharkhand,3-Wheelers,RICKSHAW,13225.0
+2023.0,Jharkhand,4-Wheelers,CAR/CAB,452.0
+2023.0,Karnataka,2-Wheelers,SCOOTER,129389.0
+2023.0,Karnataka,3-Wheelers,RICKSHAW,5437.0
+2023.0,Karnataka,4-Wheelers,CAR/CAB,11658.0
+2023.0,Kerala,2-Wheelers,SCOOTER,61522.0
+2023.0,Kerala,3-Wheelers,RICKSHAW,4070.0
+2023.0,Kerala,4-Wheelers,CAR/CAB,8988.0
+2023.0,Ladakh,2-Wheelers,SCOOTER,17.0
+2023.0,Ladakh,3-Wheelers,RICKSHAW,1.0
+2023.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2023.0,Madhya Pradesh,2-Wheelers,SCOOTER,35950.0
+2023.0,Madhya Pradesh,3-Wheelers,RICKSHAW,29292.0
+2023.0,Madhya Pradesh,4-Wheelers,CAR/CAB,1460.0
+2023.0,Maharashtra,2-Wheelers,SCOOTER,162687.0
+2023.0,Maharashtra,3-Wheelers,RICKSHAW,11523.0
+2023.0,Maharashtra,4-Wheelers,CAR/CAB,13750.0
+2023.0,Manipur,2-Wheelers,SCOOTER,89.0
+2023.0,Manipur,3-Wheelers,RICKSHAW,280.0
+2023.0,Manipur,4-Wheelers,CAR/CAB,30.0
+2023.0,Meghalaya,2-Wheelers,SCOOTER,72.0
+2023.0,Meghalaya,3-Wheelers,RICKSHAW,19.0
+2023.0,Meghalaya,4-Wheelers,CAR/CAB,20.0
+2023.0,Mizoram,2-Wheelers,SCOOTER,166.0
+2023.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2023.0,Mizoram,4-Wheelers,CAR/CAB,0.0
+2023.0,Nagaland,2-Wheelers,SCOOTER,3.0
+2023.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2023.0,Nagaland,4-Wheelers,CAR/CAB,3.0
+2023.0,Odisha,2-Wheelers,SCOOTER,37082.0
+2023.0,Odisha,3-Wheelers,RICKSHAW,4767.0
+2023.0,Odisha,4-Wheelers,CAR/CAB,1337.0
+2023.0,Puducherry,2-Wheelers,SCOOTER,2446.0
+2023.0,Puducherry,3-Wheelers,RICKSHAW,92.0
+2023.0,Puducherry,4-Wheelers,CAR/CAB,90.0
+2023.0,Punjab,2-Wheelers,SCOOTER,7791.0
+2023.0,Punjab,3-Wheelers,RICKSHAW,16114.0
+2023.0,Punjab,4-Wheelers,CAR/CAB,780.0
+2023.0,Rajasthan,2-Wheelers,SCOOTER,57595.0
+2023.0,Rajasthan,3-Wheelers,RICKSHAW,29732.0
+2023.0,Rajasthan,4-Wheelers,CAR/CAB,4490.0
+2023.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2023.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2023.0,Tamil Nadu,2-Wheelers,SCOOTER,73405.0
+2023.0,Tamil Nadu,3-Wheelers,RICKSHAW,5375.0
+2023.0,Tamil Nadu,4-Wheelers,CAR/CAB,6019.0
+2023.0,Tripura,2-Wheelers,SCOOTER,235.0
+2023.0,Tripura,3-Wheelers,RICKSHAW,6025.0
+2023.0,Tripura,4-Wheelers,CAR/CAB,30.0
+2023.0,Uttar Pradesh,2-Wheelers,SCOOTER,39372.0
+2023.0,Uttar Pradesh,3-Wheelers,RICKSHAW,232595.0
+2023.0,Uttar Pradesh,4-Wheelers,CAR/CAB,4580.0
+2023.0,Uttarakhand,2-Wheelers,SCOOTER,5688.0
+2023.0,Uttarakhand,3-Wheelers,RICKSHAW,10617.0
+2023.0,Uttarakhand,4-Wheelers,CAR/CAB,488.0
+2023.0,West Bengal,2-Wheelers,SCOOTER,11320.0
+2023.0,West Bengal,3-Wheelers,RICKSHAW,7272.0
+2023.0,West Bengal,4-Wheelers,CAR/CAB,2602.0
+2024.0,Andaman & Nicobar Island,2-Wheelers,SCOOTER,2.0
+2024.0,Andaman & Nicobar Island,3-Wheelers,RICKSHAW,0.0
+2024.0,Andaman & Nicobar Island,4-Wheelers,CAR/CAB,0.0
+2024.0,Andhra Pradesh,2-Wheelers,SCOOTER,2047.0
+2024.0,Andhra Pradesh,3-Wheelers,RICKSHAW,96.0
+2024.0,Andhra Pradesh,4-Wheelers,CAR/CAB,123.0
+2024.0,Arunachal Pradesh,2-Wheelers,SCOOTER,0.0
+2024.0,Arunachal Pradesh,3-Wheelers,RICKSHAW,2.0
+2024.0,Arunachal Pradesh,4-Wheelers,CAR/CAB,5.0
+2024.0,Assam,2-Wheelers,SCOOTER,253.0
+2024.0,Assam,3-Wheelers,RICKSHAW,3965.0
+2024.0,Assam,4-Wheelers,CAR/CAB,21.0
+2024.0,Bihar,2-Wheelers,SCOOTER,1288.0
+2024.0,Bihar,3-Wheelers,RICKSHAW,7024.0
+2024.0,Bihar,4-Wheelers,CAR/CAB,58.0
+2024.0,Chandigarh,2-Wheelers,SCOOTER,118.0
+2024.0,Chandigarh,3-Wheelers,RICKSHAW,321.0
+2024.0,Chandigarh,4-Wheelers,CAR/CAB,101.0
+2024.0,Chhattisgarh,2-Wheelers,SCOOTER,2343.0
+2024.0,Chhattisgarh,3-Wheelers,RICKSHAW,1117.0
+2024.0,Chhattisgarh,4-Wheelers,CAR/CAB,91.0
+2024.0,DNH and DD,2-Wheelers,SCOOTER,24.0
+2024.0,DNH and DD,3-Wheelers,RICKSHAW,1.0
+2024.0,DNH and DD,4-Wheelers,CAR/CAB,3.0
+2024.0,Delhi,2-Wheelers,SCOOTER,3073.0
+2024.0,Delhi,3-Wheelers,RICKSHAW,2434.0
+2024.0,Delhi,4-Wheelers,CAR/CAB,1345.0
+2024.0,Goa,2-Wheelers,SCOOTER,832.0
+2024.0,Goa,3-Wheelers,RICKSHAW,0.0
+2024.0,Goa,4-Wheelers,CAR/CAB,86.0
+2024.0,Gujarat,2-Wheelers,SCOOTER,5108.0
+2024.0,Gujarat,3-Wheelers,RICKSHAW,296.0
+2024.0,Gujarat,4-Wheelers,CAR/CAB,494.0
+2024.0,Haryana,2-Wheelers,SCOOTER,986.0
+2024.0,Haryana,3-Wheelers,RICKSHAW,2034.0
+2024.0,Haryana,4-Wheelers,CAR/CAB,282.0
+2024.0,Himachal Pradesh,2-Wheelers,SCOOTER,76.0
+2024.0,Himachal Pradesh,3-Wheelers,RICKSHAW,7.0
+2024.0,Himachal Pradesh,4-Wheelers,CAR/CAB,13.0
+2024.0,Jammu and Kashmir,2-Wheelers,SCOOTER,46.0
+2024.0,Jammu and Kashmir,3-Wheelers,RICKSHAW,805.0
+2024.0,Jammu and Kashmir,4-Wheelers,CAR/CAB,10.0
+2024.0,Jharkhand,2-Wheelers,SCOOTER,546.0
+2024.0,Jharkhand,3-Wheelers,RICKSHAW,1110.0
+2024.0,Jharkhand,4-Wheelers,CAR/CAB,29.0
+2024.0,Karnataka,2-Wheelers,SCOOTER,11957.0
+2024.0,Karnataka,3-Wheelers,RICKSHAW,577.0
+2024.0,Karnataka,4-Wheelers,CAR/CAB,1080.0
+2024.0,Kerala,2-Wheelers,SCOOTER,6456.0
+2024.0,Kerala,3-Wheelers,RICKSHAW,542.0
+2024.0,Kerala,4-Wheelers,CAR/CAB,734.0
+2024.0,Ladakh,2-Wheelers,SCOOTER,0.0
+2024.0,Ladakh,4-Wheelers,CAR/CAB,0.0
+2024.0,Madhya Pradesh,2-Wheelers,SCOOTER,3675.0
+2024.0,Madhya Pradesh,3-Wheelers,RICKSHAW,2870.0
+2024.0,Madhya Pradesh,4-Wheelers,CAR/CAB,172.0
+2024.0,Maharashtra,2-Wheelers,SCOOTER,15874.0
+2024.0,Maharashtra,3-Wheelers,RICKSHAW,892.0
+2024.0,Maharashtra,4-Wheelers,CAR/CAB,1289.0
+2024.0,Manipur,2-Wheelers,SCOOTER,7.0
+2024.0,Manipur,3-Wheelers,RICKSHAW,15.0
+2024.0,Manipur,4-Wheelers,CAR/CAB,7.0
+2024.0,Meghalaya,2-Wheelers,SCOOTER,26.0
+2024.0,Meghalaya,3-Wheelers,RICKSHAW,1.0
+2024.0,Meghalaya,4-Wheelers,CAR/CAB,1.0
+2024.0,Mizoram,2-Wheelers,SCOOTER,28.0
+2024.0,Mizoram,3-Wheelers,RICKSHAW,0.0
+2024.0,Mizoram,4-Wheelers,CAR/CAB,1.0
+2024.0,Nagaland,2-Wheelers,SCOOTER,0.0
+2024.0,Nagaland,3-Wheelers,RICKSHAW,0.0
+2024.0,Nagaland,4-Wheelers,CAR/CAB,0.0
+2024.0,Odisha,2-Wheelers,SCOOTER,3714.0
+2024.0,Odisha,3-Wheelers,RICKSHAW,396.0
+2024.0,Odisha,4-Wheelers,CAR/CAB,150.0
+2024.0,Puducherry,2-Wheelers,SCOOTER,309.0
+2024.0,Puducherry,3-Wheelers,RICKSHAW,11.0
+2024.0,Puducherry,4-Wheelers,CAR/CAB,10.0
+2024.0,Punjab,2-Wheelers,SCOOTER,794.0
+2024.0,Punjab,3-Wheelers,RICKSHAW,1529.0
+2024.0,Punjab,4-Wheelers,CAR/CAB,105.0
+2024.0,Rajasthan,2-Wheelers,SCOOTER,4400.0
+2024.0,Rajasthan,3-Wheelers,RICKSHAW,2484.0
+2024.0,Rajasthan,4-Wheelers,CAR/CAB,498.0
+2024.0,Sikkim,2-Wheelers,SCOOTER,0.0
+2024.0,Sikkim,4-Wheelers,CAR/CAB,0.0
+2024.0,Tamil Nadu,2-Wheelers,SCOOTER,7052.0
+2024.0,Tamil Nadu,3-Wheelers,RICKSHAW,406.0
+2024.0,Tamil Nadu,4-Wheelers,CAR/CAB,626.0
+2024.0,Tripura,2-Wheelers,SCOOTER,3.0
+2024.0,Tripura,3-Wheelers,RICKSHAW,502.0
+2024.0,Tripura,4-Wheelers,CAR/CAB,2.0
+2024.0,Uttar Pradesh,2-Wheelers,SCOOTER,5639.0
+2024.0,Uttar Pradesh,3-Wheelers,RICKSHAW,21758.0
+2024.0,Uttar Pradesh,4-Wheelers,CAR/CAB,399.0
+2024.0,Uttarakhand,2-Wheelers,SCOOTER,382.0
+2024.0,Uttarakhand,3-Wheelers,RICKSHAW,803.0
+2024.0,Uttarakhand,4-Wheelers,CAR/CAB,49.0
+2024.0,West Bengal,2-Wheelers,SCOOTER,1632.0
+2024.0,West Bengal,3-Wheelers,RICKSHAW,924.0
+2024.0,West Bengal,4-Wheelers,CAR/CAB,184.0
